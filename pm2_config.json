@@ -1,0 +1,7 @@
+{
+"apps" : [{
+    "name"        : "EC2InstanceExample",
+    "script"      : "./server.js",
+    "exec_interpreter": "babel-node"
+  }]
+}
